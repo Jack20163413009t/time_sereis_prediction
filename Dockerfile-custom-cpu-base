@@ -1,4 +1,4 @@
-FROM dls.io/dls/ubuntu_base:16.04-latest
+FROM swr.cn-north-1.myhuaweicloud.com/hwstaff_pub_ctoti/custom-cpu-base:1.0
 
 ARG download
 ARG username
